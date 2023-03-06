@@ -35,8 +35,7 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarismayilov&hide_progress=true&theme=vue-dark" alt="omarismayilov" /> </p>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=omarismayilov&show_icons=true&theme=vue-dark" alt="omarismayilov" /> </p>
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=omarismayilov&show_icons=true&theme=vue-dark)
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=omarismayilov&theme=vue-dark)
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarismayilov&theme=vue-dark" alt="omarismayilov" /> </p>
 
