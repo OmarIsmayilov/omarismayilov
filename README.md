@@ -10,13 +10,13 @@
 
 
 
-- 🔭 I’m currently working on [Tipify](https://github.com/OmarIsmayilov/TipifyApp)
+- 🔭 I’m currently working on [MVVM Structure]
 
 - 🌱 I’m currently learning **on Coursera and Udemy**
 
 - 📫 How to reach me **omarismayilov0@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kjKJ9QSVZCueRHrQTlwUGio9NdV5ztTr/view?usp=sharing](https://drive.google.com/file/d/1kjKJ9QSVZCueRHrQTlwUGio9NdV5ztTr/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1wB9dDdCheXRW_yPDgbwVmxP-QpDc-xKC/view?usp=sharing](https://drive.google.com/file/d/1wB9dDdCheXRW_yPDgbwVmxP-QpDc-xKC/view?usp=sharing)
 <br>
 
 <h3 align="center">Connect with me:</h3>
