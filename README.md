@@ -10,13 +10,12 @@
 
 
 
-- 🔭 I’m currently working on [MVVM Structure]
+- 🔭 I’m currently working on [Android Development]
 
 - 🌱 I’m currently learning **on Coursera and Udemy**
 
 - 📫 How to reach me **omarismayilov0@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1C-u7b87jlNb1J763B-nv7XE052tjoC_0/view?usp=share_link](https://drive.google.com/file/d/1C-u7b87jlNb1J763B-nv7XE052tjoC_0/view?usp=share_link)
 <br>
 
 <h3 align="center">Connect with me:</h3>
